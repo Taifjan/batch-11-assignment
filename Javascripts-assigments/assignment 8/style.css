@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+#color-box{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+margin-left: 45%;
+margin-bottom: 40px;
+
+  }
+
+  body{
+    text-align: center;
+=======
+#color-box{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+margin-left: 45%;
+margin-bottom: 40px;
+
+  }
+
+  body{
+    text-align: center;
+>>>>>>> 03fc570df99b22b8109887fd024e79dafd13924b
+  }
